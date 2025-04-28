@@ -22,7 +22,7 @@ Senior Android Engineer with over 8 years of experience, specializing in Jetpack
 - [Gradle](https://gradle.org)  
 - [Jetpack Compose](https://developer.android.com/jetpack/compose)  
 - [MVVM Pattern](https://developer.android.com/jetpack/guide)  
-- [Clean Architecture]([https://developer.android.com/jetpack/guide/arch#clean](https://developer.android.com/topic/architecture?hl=pt-br))  
+- [Clean Architecture](https://developer.android.com/topic/architecture?hl=pt-br)  
 - [Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-overview.html)  
 - [Bitrise](https://www.bitrise.io) & [Firebase App Distribution](https://firebase.google.com/products/app-distribution)
 
