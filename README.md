@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/sim%C3%A3o-pedro-58ba41125/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-# Hi, I’m Simão! 👋
+# Hi, I’m Simão Pedro! 👋
 
 Senior Android Engineer with over 8 years of experience, specializing in Jetpack Compose, Clean Architecture, modular architectures and CI/CD pipelines. I excel at designing scalable, maintainable apps and began my career as a QA Engineer, automating mobile and web test frameworks to ensure top-notch quality.
 
