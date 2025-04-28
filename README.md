@@ -46,3 +46,10 @@ Senior Android Engineer with over 8 years of experience, specializing in Jetpack
   <a href="mailto:simaopgt@gmail.com">📧 Email Me</a> •
   <a href="https://www.linkedin.com/in/sim%C3%A3o-pedro-58ba41125/">🔗 LinkedIn</a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simaopgt&show_icons=true&theme=radical" alt="Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaopgt&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
