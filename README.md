@@ -11,8 +11,9 @@ Senior Android Engineer with over 8 years of experience, specializing in Jetpack
 ---
 
 ## 🚀 What I’m Working On
-- Developing the **Poker Planning App** in Jetpack Compose  
-- Crafting scalable, maintainable Android solutions  
+- Project Death Star: Architecting a large-scale distributed system, ensuring seamless cohesion and high-performance communication between multiple independent 'subsystems'—from 'bridge control' to 'superlaser operation'.
+- Poker Planning App: Continuing development in Jetpack Compose.
+- Scalable Solutions: Crafting maintainable Android solutions for the galaxy. 
 
 ---
 
